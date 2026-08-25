@@ -1,7 +1,12 @@
+<p align="center">
+  <img src="img/logo-adavam.png" width="120" alt="Logo Adavam">
+</p>
+
 # 👥 Sistema de Gestión y Carga de Clientes
 
 <p align="center">
-  <img src="img/logo-adavam.png" width="120" alt="Logo Adavam">
+    <img src="img/adavam.png" alt="Logo Adavam">
+
 </p>
 
 Bienvenido al repositorio del Sistema de Gestión de Clientes, desarrollado por **E. Daniel Valencia de Adavam**. Este proyecto es una solución moderna, rápida y escalable para la carga, lectura y gestión masiva de usuarios a través de archivos Excel y CSV, respaldado por una base de datos relacional.
