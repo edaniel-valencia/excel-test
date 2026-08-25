@@ -1,0 +1,21 @@
+# Entornos virtuales
+venv/
+env/
+.venv/
+
+# Variables de entorno y credenciales
+.env
+
+# Archivos de caché de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos de Streamlit y FastAPI
+.streamlit/
+.pytest_cache/
+
+# Sistemas operativos (Mac/Windows)
+.DS_Store
+Thumbs.db
