@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img/logo-adavam.png" width="120" alt="Logo Adavam">
+  <img src="img/logo-adavam.png" width="250" alt="Logo Adavam">
 </p>
 
 # 👥 Sistema de Gestión y Carga de Clientes
